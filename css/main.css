@@ -286,9 +286,24 @@ footer a:not(.nav-link) {
   height: 115px;
 }
 
+.project-card-header{
+  height: 135px;
+}
+
 .project-card-body{
   height: 350px;
   overflow-x: scroll;
   scroll-behavior: smooth;
   text-align: justify;
+}
+
+.research-card-header{
+  height: 135px;
+}
+
+.research-card-body{
+  text-align: justify;
+  height: 1000px;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
 }
