@@ -271,10 +271,8 @@ footer a:not(.nav-link) {
 }
 
 .card-body-design{
-  height: 500px;
-    overflow-y: scroll;
+  height: 705px;
     margin-bottom: 20px;
-    scroll-behavior: smooth;
     text-align: justify;
 }
 
@@ -291,9 +289,7 @@ footer a:not(.nav-link) {
 }
 
 .project-card-body{
-  height: 350px;
-  overflow-x: scroll;
-  scroll-behavior: smooth;
+  height: 330px;
   text-align: justify;
 }
 
@@ -303,7 +299,5 @@ footer a:not(.nav-link) {
 
 .research-card-body{
   text-align: justify;
-  height: 1000px;
-  overflow-y: scroll;
-  scroll-behavior: smooth;
+  height: 1620px;
 }
